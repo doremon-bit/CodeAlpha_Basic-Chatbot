@@ -15,9 +15,12 @@ def chatbot():
         else:
             print("Chatbot: Sorry, I don't understand.")
 chatbot()
-Description
+
+
+"Description"
 This program creates a simple rule-based chatbot using Python. The chatbot interacts with the user by taking input and responding to predefined messages. It continues the conversation until the user types "bye".
-Concepts Used
+
+"Concepts Used"
 Functions (def)
 Infinite loops (while True)
 Conditional statements (if, elif, else)
